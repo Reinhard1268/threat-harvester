@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![License](https://img.shields.io/github/license/Reinhard1268/threat-harvester)
+![Platform](https://img.shields.io/badge/Platform-Linux-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Stars](https://img.shields.io/github/stars/Reinhard1268/threat-harvester?style=social)
+
 # 🛡️ Threat Intelligence Harvester
 
 Threat Intelligence Harvester is a Python-based tool that loads IOCs from a file, enriches them with GeoIP and Abuse data, and displays them in a Flask-powered dashboard with search and filtering.
