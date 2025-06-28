@@ -1,0 +1,82 @@
+[
+    {
+        "Type": "IP",
+        "Value": "8.8.8.8",
+        "Source": "User Input",
+        "Threat": "Suspicious",
+        "Location": "United States",
+        "Abuse": "High"
+    },
+    {
+        "Type": "IP",
+        "Value": "185.220.101.1",
+        "Source": "User Input",
+        "Threat": "Suspicious",
+        "Location": "Brandenburg, Germany",
+        "Abuse": "Critical"
+    },
+    {
+        "Type": "Domain",
+        "Value": "malicious.org",
+        "Source": "User Input",
+        "Threat": "Suspicious",
+        "Location": "Unknown",
+        "Abuse": "N/A"
+    },
+    {
+        "Type": "Domain",
+        "Value": "evil.example.com",
+        "Source": "User Input",
+        "Threat": "Suspicious",
+        "Location": "Unknown",
+        "Abuse": "N/A"
+    },
+    {
+        "Type": "Domain",
+        "Value": "http://phishing-site.com/login",
+        "Source": "User Input",
+        "Threat": "Suspicious",
+        "Location": "Unknown",
+        "Abuse": "N/A"
+    },
+    {
+        "Type": "Domain",
+        "Value": "https://suspicious-portal.net",
+        "Source": "User Input",
+        "Threat": "Suspicious",
+        "Location": "Unknown",
+        "Abuse": "N/A"
+    },
+    {
+        "Type": "Hash",
+        "Value": "44d88612fea8a8f36de82e1278abb02f",
+        "Source": "User Input",
+        "Threat": "Suspicious",
+        "Location": "Unknown",
+        "Abuse": "N/A"
+    },
+    {
+        "Type": "Hash",
+        "Value": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "Source": "User Input",
+        "Threat": "Suspicious",
+        "Location": "Unknown",
+        "Abuse": "N/A"
+    },
+    {
+        "Type": "Hash",
+        "Value": "e99a18c428cb38d5f260853678922e03",
+        "Source": "User Input",
+        "Threat": "Suspicious",
+        "Location": "Unknown",
+        "Abuse": "N/A"
+    },
+    {
+        "Type": "Hash",
+        "Value": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3",
+        "Source": "User Input",
+        "Threat": "Suspicious",
+        "Location": "Unknown",
+        "Abuse": "N/A"
+    }
+]

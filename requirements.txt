@@ -1,0 +1,6 @@
+requests
+rich
+tabulate
+geoip2
+python-dotenv
+fpdf

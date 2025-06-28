@@ -1,0 +1,10 @@
+8.8.8.8
+185.220.101.1
+malicious.org
+evil.example.com
+http://phishing-site.com/login
+https://suspicious-portal.net
+44d88612fea8a8f36de82e1278abb02f
+5f4dcc3b5aa765d61d8327deb882cf99
+e99a18c428cb38d5f260853678922e03
+2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3
